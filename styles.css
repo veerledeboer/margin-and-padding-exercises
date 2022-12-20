@@ -1,0 +1,69 @@
+body {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .one {
+    background: pink;
+    border: 3px solid blue;
+   
+    padding: 32px;
+    margin: 12px;
+    display: border-box;
+  }
+  
+  .two {
+    background: lightblue;
+    border: 3px solid purple;
+ 
+    margin-bottom: 48px;
+  }
+  
+  .three {
+    background: peachpuff;
+    border: 3px solid brown;
+    width: 200px;
+   
+    padding: 32px;
+    margin-left: auto;
+  }
+
+  body {
+    background: #eee;
+    font-family: sans-serif;
+  }
+  
+  .card {
+    width: 400px;
+    background: #fff;
+    margin: 16px auto;
+    padding: 8px;
+  }
+  
+  .title {
+    background: #e3f4ff;
+    font-size: 16px;
+    padding: 8px;
+    margin-top: 0;
+    margin-bottom: 8px;
+  }
+  
+  .content {
+    background: #e3f4ff;
+    padding: 16px 8px;
+    border-bottom: 8px solid #fff;
+  }
+  
+  .button-container {
+    background: #e3f4ff;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  button {
+    background: white;
+    border: 1px solid #eee;
+    display: block;
+    margin: auto;
+    padding: 8px 24px;
+  }
